@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntSph_FE_AppGateway.web", "IntSph_FE_AppGateway.web\IntSph_FE_AppGateway.web.csproj", "{1266F273-316C-4C02-913C-10B2BAFE6DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntSph_shell_MainBoard", "IntSph_shell_MainBoard\IntSph_shell_MainBoard.csproj", "{81AA22E4-C8CB-4342-900F-94341AFEC6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1266F273-316C-4C02-913C-10B2BAFE6DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1266F273-316C-4C02-913C-10B2BAFE6DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1266F273-316C-4C02-913C-10B2BAFE6DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1266F273-316C-4C02-913C-10B2BAFE6DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AA22E4-C8CB-4342-900F-94341AFEC6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AA22E4-C8CB-4342-900F-94341AFEC6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AA22E4-C8CB-4342-900F-94341AFEC6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AA22E4-C8CB-4342-900F-94341AFEC6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
