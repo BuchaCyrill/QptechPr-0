@@ -18,7 +18,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <StackPanel Grid.Column ="0" Grid.Row="0" Orientation="Horizontal" Margin="5,0,5,5">
-            <TextBlock HorizontalAlignment="Left" Width="Auto" Text="Main Title 1" FontWeight="Bold" FontSize="12"  VerticalAlignment="Center" FontStretch="Normal" FontFamily="Times New Roman" Foreground="#FF2F2F79" TextAlignment="Left" />
+            <TextBlock HorizontalAlignment="Left" Width="Auto" Text="Main Title 1 - Wonderfull" FontWeight="Bold" FontSize="12"  VerticalAlignment="Center" FontStretch="Normal" FontFamily="Times New Roman" Foreground="#FF2F2F79" TextAlignment="Left" />
         </StackPanel>
         <StackPanel Grid.Column ="0" Grid.Row="4" Orientation="Horizontal" Margin="5,0,5,5">
             <TextBlock HorizontalAlignment="Left" Width="Auto" Text="QPTech - Home 2011" FontSize="8"  VerticalAlignment="Center" FontStretch="Normal" FontFamily="Times New Roman" Foreground="#FF4B4242" TextAlignment="Left" />
